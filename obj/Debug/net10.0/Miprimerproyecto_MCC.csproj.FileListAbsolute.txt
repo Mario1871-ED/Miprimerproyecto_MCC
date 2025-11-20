@@ -1,0 +1,14 @@
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\bin\Debug\net10.0\Miprimerproyecto_MCC.exe
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\bin\Debug\net10.0\Miprimerproyecto_MCC.deps.json
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\bin\Debug\net10.0\Miprimerproyecto_MCC.runtimeconfig.json
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\bin\Debug\net10.0\Miprimerproyecto_MCC.dll
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\bin\Debug\net10.0\Miprimerproyecto_MCC.pdb
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\obj\Debug\net10.0\Miprimerproyecto_MCC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\obj\Debug\net10.0\Miprimerproyecto_MCC.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\obj\Debug\net10.0\Miprimerproyecto_MCC.AssemblyInfo.cs
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\obj\Debug\net10.0\Miprimerproyecto_MCC.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\obj\Debug\net10.0\Miprimerproyecto_MCC.dll
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\obj\Debug\net10.0\refint\Miprimerproyecto_MCC.dll
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\obj\Debug\net10.0\Miprimerproyecto_MCC.pdb
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\obj\Debug\net10.0\Miprimerproyecto_MCC.genruntimeconfig.cache
+C:\Users\alumno\Documents\ED\Miprimerproyecto_MCC\obj\Debug\net10.0\ref\Miprimerproyecto_MCC.dll
