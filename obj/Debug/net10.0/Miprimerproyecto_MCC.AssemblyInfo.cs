@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Miprimerproyecto_MCC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fdcb74d469234b52eeff06ad1abb11182158b7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Miprimerproyecto_MCC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Miprimerproyecto_MCC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
